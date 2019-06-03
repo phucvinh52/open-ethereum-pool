@@ -108,10 +108,5 @@
 		"autoGas": true,
 		"threshold": 500000000,
 		"bgsave": false
-	},
-
-	"newrelicEnabled": false,
-	"newrelicName": "MyEtherProxy",
-	"newrelicKey": "SECRET_KEY",
-	"newrelicVerbose": false
+	}
 }
